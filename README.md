@@ -10,9 +10,10 @@ Diversos programas didáticos sobre C# em Visual Studio 2019 Community - Softwar
 
 Exemplo de variaveis [double](TipoDouble)
 
-* ***```Operador Condicional```*** 
+* ***```Condicões```*** 
 
-Exemplo de [Operador Condicional](c2.1.8OperadorCondicional)
+Exemplo de [Operador Condicional](OperadorCondicional)
 
-Outro Exemplo [Operador Condicional2](c2.1.8OperadorCondicional2)
+Outro Exemplo [Operador Condicional2](OperadorCondicional2)
 
+Exemplo de [Switch Case](SwitchCaseVogal)
