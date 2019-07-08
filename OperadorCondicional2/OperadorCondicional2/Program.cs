@@ -1,13 +1,14 @@
-﻿using System;
-/*
+﻿/*
  * Autor: Nicolas Ramos
  * 
  * Ambiente: Visual Studio 2019 C#
+ * 
  * Licença: GNU GPL 3
  * 
  */
+using System;
 
-namespace c2._1._8OperadorCondicional2
+namespace OperadorCondicional2
 {
     class Program
     {
