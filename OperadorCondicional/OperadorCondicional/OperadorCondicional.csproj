@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <RootNamespace>c2._1._8OperadorCondicional</RootNamespace>
+    <RootNamespace>OperadorCondicional</RootNamespace>
   </PropertyGroup>
 
 </Project>
