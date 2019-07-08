@@ -8,7 +8,7 @@ Diversos programas didáticos sobre C# em Visual Studio 2019 Community - Softwar
 
 * ***```Variáveis```*** 
 
-Exemplo de variaveis {double](Csharp)
+Exemplo de variaveis [double](Csharp)
 
 * ***```Operador Condicional```*** 
 
