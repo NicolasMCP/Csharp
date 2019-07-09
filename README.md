@@ -17,3 +17,9 @@ Exemplo de [Operador Condicional](OperadorCondicional)
 Outro Exemplo [Operador Condicional2](OperadorCondicional2)
 
 Exemplo de [Switch Case](SwitchCaseVogal)
+
+* ***```Loops```*** 
+
+Exemplo de [For](oFor)
+
+Exemplo de [While, do While](oFor)
