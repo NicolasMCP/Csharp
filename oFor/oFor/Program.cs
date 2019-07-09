@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Autor: Nicolas Ramos
+ * 
+ * Ambiente: Visual Studio 2019 C#
+ * 
+ * Licença: GNU GPL 3
+ * 
+ */
+using System;
 
 namespace oFor
 {
