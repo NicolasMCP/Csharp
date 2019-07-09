@@ -22,4 +22,4 @@ Exemplo de [Switch Case](SwitchCaseVogal)
 
 Exemplo de [For](oFor)
 
-Exemplo de [While, do While](oFor)
+Exemplo de [While, do While](WhileDoWhile)
