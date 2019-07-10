@@ -23,3 +23,8 @@ Exemplo de [Switch Case](SwitchCaseVogal)
 Exemplo de [For](oFor)
 
 Exemplo de [While, do While](WhileDoWhile)
+
+* ***```Calculos```*** 
+
+Calculo de [MMC](mmc)
+
