@@ -13,14 +13,27 @@ namespace TipoDouble
     {
         static void Main(string[] args)
         {
-            double a = 11;
-            double b = 3;
+            /* No código usamos '.' como separador decimal, ao digita usamos ','
+             * (caso estejamos em países que usam esse separador decimal) */
+            double a = 11.4;
+            double b = 3.6;
             double c = a / b;
             double max = double.MaxValue;
             double min = double.MinValue;
 
             Console.WriteLine($"{a} / {b} = {c}\n\r");
             Console.WriteLine($"double pode conter valores desde {min} até {max}");
+
+            Console.WriteLine();
+
+            Console.Write("Digite um número real diferente de 0: ");
+            a = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Digite outro número real diferente de 0: ");
+            b = Convert.ToDouble(Console.ReadLine());
+
+            c = a / b;
+            Console.WriteLine($"{a} / {b} = {c}\n\r");
+
         }
     }
 }
