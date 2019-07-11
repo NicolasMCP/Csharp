@@ -28,3 +28,5 @@ Exemplo de [While, do While](WhileDoWhile)
 
 Calculo de [MMC](mmc)
 
+Calcula faixa de [Números Primos](Primos)
+
