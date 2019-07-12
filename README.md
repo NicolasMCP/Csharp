@@ -30,3 +30,5 @@ Calculo de [MMC](mmc)
 
 Calcula faixa de [Números Primos](Primos)
 
+Calculo de [Conteúdo Char](ConteudoChar)
+
