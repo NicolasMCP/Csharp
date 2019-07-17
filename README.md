@@ -10,6 +10,8 @@ Diversos programas didáticos sobre C# em Visual Studio 2019 Community - Softwar
 
 Exemplo de variaveis [double](TipoDouble)
 
+String uso de [Substring e IndexOf](SubStrings)
+
 * ***```Condicões```*** 
 
 Exemplo de [Operador Condicional](OperadorCondicional)
