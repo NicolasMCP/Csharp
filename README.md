@@ -8,29 +8,31 @@ Diversos programas didáticos sobre C# em Visual Studio 2019 Community - Softwar
 
 * ***```Variáveis```*** 
 
-Exemplo de variaveis [double](TipoDouble)
+Exemplo de variaveis [double](TipoDouble/TipoDouble/Program.cs)
 
-String uso de [Substring e IndexOf](SubStrings)
+Caraterísticas de var. [diversas](TiposVar/VariaveisECarateristicas/Program.cs)
+
+String uso de [Substring e IndexOf](SubStrings/SubStrings/Program.cs)
 
 * ***```Condicões```*** 
 
-Exemplo de [Operador Condicional](OperadorCondicional)
+Exemplo de [Operador Condicional](OperadorCondicional/OperadorCondicional/Program.cs)
 
-Outro Exemplo [Operador Condicional2](OperadorCondicional2)
+Outro Exemplo [Operador Condicional2](OperadorCondicional2/OperadorCondicional2/Program.cs)
 
-Exemplo de [Switch Case](SwitchCaseVogal)
+Exemplo de [Switch Case](SwitchCaseVogal/SwitchCaseVogal/Program.cs)
 
 * ***```Loops```*** 
 
-Exemplo de [For](oFor)
+Exemplo de [For](oFor/oFor/Program.cs)
 
-Exemplo de [While, do While](WhileDoWhile)
+Exemplo de [While, do While](WhileDoWhile/WhileDoWhile/Program.cs)
 
 * ***```Calculos```*** 
 
-Calculo de [MMC](mmc)
+Calculo de [MMC](mmc/mmc/Program.cs)
 
-Calcula faixa de [Números Primos](Primos)
+Calcula faixa de [Números Primos](Csharp/Primos/Primos/Program.cs)
 
-Calculo de [Conteúdo Char](ConteudoChar)
+Calculo de [Conteúdo Char](ConteudoChar/ConteudoChar/Program.cs)
 
