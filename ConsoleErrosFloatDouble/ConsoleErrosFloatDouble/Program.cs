@@ -31,9 +31,9 @@ namespace ConsoleErrosFloatDouble
             double b = 1.2d;
             double r = a + b;
 
-            Console.WriteLine("a = " + a.ToString("e20"));
-            Console.WriteLine("b = " + b.ToString("e20"));
-            Console.WriteLine("resultado a + b = " + r.ToString("e20"));
+            Console.WriteLine("a = " + a.ToString("e16"));
+            Console.WriteLine("b = " + b.ToString("e16"));
+            Console.WriteLine("resultado a + b = " + r.ToString("e16"));
 
             Console.WriteLine();
 
@@ -44,10 +44,10 @@ namespace ConsoleErrosFloatDouble
 
             Decimal resultado = x + y;
 
-            Console.WriteLine("x = " + x.ToString("e20"));
-            Console.WriteLine("y = " + y.ToString("e20"));
+            Console.WriteLine("x = " + x.ToString("e16"));
+            Console.WriteLine("y = " + y.ToString("e16"));
 
-            Console.WriteLine("resultado x + y = " + resultado.ToString("e20"));
+            Console.WriteLine("resultado x + y = " + resultado.ToString("e16"));
 
             Console.WriteLine();
 
@@ -56,7 +56,7 @@ namespace ConsoleErrosFloatDouble
             int cont = 1;
             for (float i = 1.1f; i <= 1.5f; i += 0.1f)
             {
-                Console.WriteLine((cont++) + "  valor = " + i.ToString("e16"));
+                Console.WriteLine((cont++) + "  valor = " + i.ToString("e10"));
             }
 
             Console.WriteLine();
