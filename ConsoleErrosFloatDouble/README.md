@@ -5,6 +5,8 @@
 ***```Programa GNU GPL```*** que exemplifica as diferenças de falta de presição em ***float*** e ***double***; e como estas não aparecem em ***Decimal***.  
 
 
+[Código C#](ConsoleErrosFloatDouble/Program.cs)
+
 
 Tela de resultados no console.
 
