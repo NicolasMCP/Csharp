@@ -36,3 +36,4 @@ Calcula faixa de [Números Primos](Csharp/Primos/Primos/Program.cs)
 
 Calculo de [Conteúdo Char](ConteudoChar/ConteudoChar/Program.cs)
 
+Calculo com [Erros float e double](ConsoleErrosFloatDouble/README.md)
