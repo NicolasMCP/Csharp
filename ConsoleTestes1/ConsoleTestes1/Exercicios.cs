@@ -22,8 +22,8 @@ namespace ConsoleTestes1
                 proximo = ultimo + penultimo;
             }
 
-            ImprimeLista(fibonacci, 
-                "FibonacciAte(200)", 
+            ImprimeLista(fibonacci,
+                "FibonacciAte(200)",
                 "Cria a sequencia de fibonacci até o número limite");
 
         }
@@ -51,18 +51,16 @@ namespace ConsoleTestes1
         public static void FibonacciSequenciaCom(int tamanho)
         {
             var fibonacci = new List<int> { 1, 1 };
-            var ultimo = fibonacci[fibonacci.Count - 1];
-            var penultimo = fibonacci[fibonacci.Count - 2];
 
             while (fibonacci.Count < tamanho)
             {
+                var ultimo = fibonacci[fibonacci.Count - 1];
+                var penultimo = fibonacci[fibonacci.Count - 2];
                 fibonacci.Add(ultimo + penultimo);
-                ultimo = fibonacci[fibonacci.Count - 1];
-                penultimo = fibonacci[fibonacci.Count - 2];
             }
 
-            ImprimeLista(fibonacci, 
-                "FibonacciSequenciaCom(20)", 
+            ImprimeLista(fibonacci,
+                "FibonacciSequenciaCom(20)",
                 "Cria a sequencia de fibonacci do tamanho passado");
         }
     }
