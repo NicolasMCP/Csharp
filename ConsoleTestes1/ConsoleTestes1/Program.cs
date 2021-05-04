@@ -6,6 +6,15 @@ namespace ConsoleTestes1
     {
         static void Main(string[] args)
         {
+            UsandoListas.ListaNomes();
+            
+            Pausa.PrecionarUmaTecla("para ir a Print1to20mult3()");            
+            
+            
+            Print1to20.Print1to20mult3();
+
+            Pausa.PrecionarUmaTecla("para ir a Soma1to20");
+            
             SomaInt1to20 soma = new SomaInt1to20();
             soma.Soma1to20();
 
