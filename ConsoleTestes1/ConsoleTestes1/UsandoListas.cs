@@ -50,6 +50,21 @@ namespace ConsoleTestes1
             Console.WriteLine();
             Console.WriteLine($"nomes[0] = {nomes[0]}");
             Console.WriteLine();
+
+            nomes.Add("Nícolas Ramos");
+
+            nomes.Sort();
+
+            Console.WriteLine();
+            Console.WriteLine("Em ordem alfabetica");
+            Console.WriteLine();
+
+            foreach (string nome in nomes)
+            {
+                Console.Write($"{nome}   ");
+            }
+            
+            Console.WriteLine();
         }
     }
 }

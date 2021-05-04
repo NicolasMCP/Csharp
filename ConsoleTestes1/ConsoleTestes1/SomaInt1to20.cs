@@ -19,6 +19,7 @@ namespace ConsoleTestes1
             }
 
             Console.WriteLine($"A soma dos inteiros de 1 a 20 é {soma}");
+
         }
     }
 }

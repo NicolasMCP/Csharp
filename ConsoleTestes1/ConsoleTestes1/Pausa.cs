@@ -8,7 +8,7 @@ namespace ConsoleTestes1
     {
         public static void PrecionarUmaTecla(String msg)
         {
-            Console.WriteLine();
+            Console.WriteLine(Environment.NewLine + Environment.NewLine + Environment.NewLine);
             Console.WriteLine($"pressione <Qualquer Tecla> {msg}");
 
             Console.ReadKey();

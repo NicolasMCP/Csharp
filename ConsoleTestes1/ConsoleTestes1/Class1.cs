@@ -17,6 +17,8 @@ namespace ConsoleTestes1
             {
                 Console.WriteLine(++i);
             }
+
+            Console.WriteLine();
         }
     }
 }
