@@ -28,23 +28,27 @@ namespace VariaveisECarateristicas
 
             Console.WriteLine($"Tipo       Máximo Valor Positivo");
             Console.WriteLine("--------------------------------");
-            Console.WriteLine($"sbyte  até {maxSbyte}");
-            Console.WriteLine($"byte   até {maxByte}");
-            Console.WriteLine($"short  até {maxShort}");
-            Console.WriteLine($"ushort até {maxUshort}");
-            Console.WriteLine($"int    até {maxInt}");
-            Console.WriteLine($"uint   até {maxUint}");
-            Console.WriteLine($"long   até {maxLong}");
-            Console.WriteLine($"ulong  até {maxUlong}");
+            Console.WriteLine($"sbyte  {maxSbyte}");
+            Console.WriteLine($"byte   {maxByte}");
+            Console.WriteLine($"short  {maxShort}");
+            Console.WriteLine($"ushort {maxUshort}");
+            Console.WriteLine($"int    {maxInt}");
+            Console.WriteLine($"uint   {maxUint}");
+            Console.WriteLine($"long   {maxLong}");
+            Console.WriteLine($"ulong  {maxUlong}");
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine($"Tipo       Máximo Valor Negativo");
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine($"sbyte  {sbyte.MinValue}");
+            Console.WriteLine($"byte   {byte.MinValue}");
+            Console.WriteLine($"short  {short.MinValue}");
+            Console.WriteLine($"ushort {ushort.MinValue}");
+            Console.WriteLine($"int    {int.MinValue}");
+            Console.WriteLine($"uint   {uint.MinValue}");
+            Console.WriteLine($"long   {long.MinValue}");
+            Console.WriteLine($"ulong  {ulong.MinValue}");
             Console.WriteLine("----------------------------------------------------------------------------------------");
-
-            Console.WriteLine("O 'byte', os que começam com 'u', " +
-                "('unsignal' ou sem sinal) tem como valor" +
-                " inicial ó 0.\nNos demais, o valor inicial é" +
-                " quasse idêntico ao final, más negativo. " +
-                "Por exemplo short:\n(32767 + 1) " +
-                "* (-1) ó valor mínimo de short = -32768\nMás você não precissa fazer" +
-                " essa conta, use 'MaxValue' ou 'MinValue' de cada tipo.");
+            Console.WriteLine("Voçe pode usar 'MaxValue' ou 'MinValue' de cada tipo.");
             Console.WriteLine("----------------------------------------------------------------------------------------");
 
             Console.WriteLine();
