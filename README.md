@@ -42,7 +42,7 @@ Calculo com [Erros float e double](ConsoleErrosFloatDouble/README.md)
 
 Pequenos testes de código em [console](ConsoleTestes1/ConsoleTestes1)
 
-A ideia aqui é pegar as ideias do treinamento Microsoft C# fazer antes de ver a forma como fizeram e depois ver se tem algo que possa ser mudado ou refatorado, as vezes criando outro exercício (mesmo antes de ver a solução citada), para que sejam códigos diferentes dos que serão usados pela Microsoft.
+A ideia aqui é pegar as ideias do treinamento Microsoft C# 101, fazer antes de ver a forma como fizeram e depois ver se tem algo que possa ser mudado ou refatorado, as vezes criando outro exercício (mesmo antes de ver a solução citada), para que sejam códigos diferentes dos que serão usados pela Microsoft.
 
 Outrossim, necessáriamente são colocadas algumas coisas novas para aprender um pouco mais.
 
