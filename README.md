@@ -2,7 +2,11 @@
 
 ![CRAN](https://img.shields.io/badge/%20LICENSE%20-GPL%203-blue.svg?style=for-the-badge)
 
-Diversos programas didáticos sobre C# em Visual Studio 2019 Community - Software Livre.
+Diversos programas didáticos sobre C# Software Livre.
+
+Estava usando a IDE Visual Studio 2019 Community da Microsoft, 
+
+mas agora estou usando a IDE Rider de JetBrains visto que é muitiplataforma.
 
 ### Elementares
 
