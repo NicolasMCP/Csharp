@@ -84,7 +84,7 @@ namespace ConsoleErrosFloatDouble
                 Console.WriteLine((cont++) + "  valor = " + i.ToString("e16"));
             }
 
-
+            Console.WriteLine(Environment.NewLine + "Precione <uma tecla> para finalizar...");
             Console.ReadKey();
         }
     }
