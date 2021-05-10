@@ -8,6 +8,12 @@ Estava usando a IDE Visual Studio 2019 Community da Microsoft,
 
 mas agora estou usando a IDE Rider de JetBrains (licenciada para Software Livre) visto que é muitiplataforma.
 
+***2021***
+
+A partir de agora estou usando NET CORE 3.1 LTS ou NET CORE 5.0 até sairem novas versões...
+
+                 
+
 ### Elementares
 
 * ***```Variáveis```*** 
