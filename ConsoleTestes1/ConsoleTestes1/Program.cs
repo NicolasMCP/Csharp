@@ -6,6 +6,8 @@ namespace ConsoleTestes1
     {
         static void Main(string[] args)
         {
+            Console.Clear();
+            
             Exercicios.FibonacciSequenciaCom(20);
 
             Pausa.PrecionarUmaTecla("para ir a FibonacciAte(200)");
