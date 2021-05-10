@@ -10,7 +10,7 @@ Estava usando a IDE Visual Studio 2019 Community da Microsoft, mas agora estou u
 
 A partir de agora estou usando NET CORE 3.1 LTS ou NET CORE 5.0 até sairem novas versões...
 
-Sistemas Operacionais: Linux Xubuntu 20.04.2 e Windows 10 Professional 
+Sistemas Operacionais: Linux Xubuntu 20.04.2 e Windows 10 Pro Ver. 20H2 Com. 19042.964 e como uso em produção, não vou liberar atualizar até que a Microsoft estabilize os problemas com os updates... 
 
 ### Elementares
 
