@@ -6,7 +6,7 @@ Diversos programas didáticos sobre C#, em Software Livre.
 
 Estava usando a IDE Visual Studio 2019 Community da Microsoft, 
 
-mas agora estou usando a IDE Rider de JetBrains (licenciada para Software Livre) visto que é muitiplataforma.
+mas agora estou usando a IDE ``` Rider ``` de [JetBrains](https://www.jetbrains.com/pt-br/) (licenciada para Software Livre) visto que é muitiplataforma.
 
 ```2021```
 
